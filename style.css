@@ -35,7 +35,7 @@ a {
 }
 
 .bg-1 {
-    background-color:#4A235A; /* Dark Purple */
+    background-image: linear-gradient(#D6EAF8,#AED6F1); /* Light blue */
     color: #555555;
 }
 
@@ -60,7 +60,7 @@ a {
 }
 
 .bg-4 {
-    background-color: #D6EAF8; /* Light Blue */
+    background-color: #707B7C; /* Dark Gray */
     color: #fff;
 }
 
