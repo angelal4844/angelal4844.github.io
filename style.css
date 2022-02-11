@@ -35,7 +35,7 @@ a {
 }
 
 .bg-1 {
-    background-image: linear-gradient(#D6EAF8,#AED6F1); /* Light blue */
+    background-image: linear-gradient(#D6EAF8,#F5EEF8); /* Light blue */
     color: #555555;
 }
 
@@ -55,7 +55,7 @@ a {
 }
 
 .bg-3 {
-    background-image: linear-gradient(#EBDEF0, #F5EEF8); /* Light purple */
+    background-image: linear-gradient(#D6EAF8, #F5EEF8); /* Light purple */
     color: #17202A;
 }
 
