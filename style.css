@@ -55,7 +55,7 @@ a {
 }
 
 .bg-3 {
-    background-image: linear-gradient(#D6EAF8, #F5EEF8); /* Light purple */
+    background-image: #F5EEF8; /* Light purple */
     color: #17202A;
 }
 
@@ -81,4 +81,8 @@ a {
 
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
+}
+
+.blue {
+    text-decoration: underline;
 }
