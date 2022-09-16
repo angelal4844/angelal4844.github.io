@@ -40,7 +40,7 @@ a {
 }
 
 .bg-2 {
-    background-image: linear-gradient(#F5EEF8,#F5EEF8  
+    background-image: linear-gradient(#F5EEF8,#F5EEF8
 ); /* Purple */
     color: #ffffff;
 }
@@ -85,4 +85,8 @@ a {
 
 .blue {
     text-decoration: underline;
+}
+
+.purple {
+    color:black;
 }
