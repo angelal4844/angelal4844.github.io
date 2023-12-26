@@ -17,7 +17,7 @@ a {
 }
 
 #logo, .project-img {
-    max-height: 300px;
+    max-height: 50px;
 }
 
 #fork img{
@@ -35,14 +35,13 @@ a {
 }
 
 .bg-1 {
-    background-image: linear-gradient(#D6EAF8,#F5EEF8); /* Light blue */
-    color: #555555;
+    background-image: linear-gradient(#E7DCD0,#EEE4D9, #C4B4A0, #A99072, #1E1407); /* Light blue */
+    /* color: #555555; */
 }
 
 .bg-2 {
-    background-image: linear-gradient(#F5EEF8,#F5EEF8
-); /* Purple */
-    color: #ffffff;
+    background-image: linear-gradient(#C0B19F, #C0B19F); /* Purple */
+    /* color: #ffffff; */
 }
 
 .card {
@@ -62,7 +61,7 @@ a {
 
 .bg-4 {
     background-color: #D6EAF8; /* Dark Gray */
-    color: #fff;
+    /* color: #fff; */
 }
 
 .container-fluid {
@@ -76,7 +75,7 @@ a {
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
-    font-size: 12px;
+    font-size: 20px;
     letter-spacing: 5px;
 }
 
@@ -91,3 +90,40 @@ a {
 .purple {
     color:black;
 }
+.rainbow {
+    border: solid ;
+  border-radius: 145px;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  .ice{
+    color: #000000 !important;
+  }
+  .ice2{
+    color: #EEE4D9;
+  }
+
+  .bg-lightbrown{
+    background-color: #EEE4D9 !important;
+  }
+  
